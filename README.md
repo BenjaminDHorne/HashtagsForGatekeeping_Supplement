@@ -4,6 +4,6 @@ This repo contains the supplemental materials for the paper: "Hashtags for gatek
 
 There are two types of figures in /ColoredFigures:
   1. Colored and Labeled Graphs, where the colors represent community membership (computed using modularity) and labels are the Twitter Screennames of selected hubs.
-  2. Bots and Verified Graphs, where the colors represent if a node is a bot or verified.
+  2. Bots and Verified Graphs, where the colors represent if a node is a bot or verified. Green nodes indicate if the node is verified or a bot.
 
 The folder /GreyScaleFigures contains the same figures as displayed in the manuscript. 
